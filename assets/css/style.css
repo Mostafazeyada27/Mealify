@@ -402,6 +402,7 @@ a {
 /* start Gallery */
 .gallery {
   background-color: var(--main-bg-color);
+  padding-bottom: 50px;
 }
 .gallery .container {
   width: 90%;
